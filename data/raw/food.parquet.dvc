@@ -1,0 +1,5 @@
+outs:
+- md5: 363b6c950fd2e02ba892f6f2c741695b
+  size: 7623081629
+  hash: md5
+  path: food.parquet
