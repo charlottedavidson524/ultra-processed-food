@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = storage-local
 ['remote "storage"']
     url = gdrive://1nc-pXqRS9SbZmGjbiSK_5yV4HqCJuB3b
+['remote "storage-local"']
+    url = C:/Users/charl/dvc-backup
